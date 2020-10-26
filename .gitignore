@@ -25,3 +25,6 @@ dist
 
 # VS Code
 .vscode/
+
+# Cached files
+.cache/
