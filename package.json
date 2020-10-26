@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html --open",
-    "build": "parcel build src/index.html"
+    "dev": "parcel src/index.pug --open",
+    "build": "parcel build src/index.pug"
   },
   "keywords": [],
   "author": "set author",
   "license": "ISC",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
+    "pug": "^3.0.0",
     "sass": "^1.27.0"
   }
 }
