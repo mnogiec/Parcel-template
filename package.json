@@ -1,0 +1,10 @@
+{
+  "name": "set-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "set author",
+  "license": "ISC"
+}
